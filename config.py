@@ -20,7 +20,7 @@ fc_size = 128             # Number of neurons in fully-connected layer.
 num_channels = 3
 
 # image dimensions (only squares for now)
-img_size = 400
+img_size = 224
 
 learning_rate = 0.0001
 
