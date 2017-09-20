@@ -1,0 +1,6 @@
+model_checkpoint_path: "/Users/jesuspereyra/Desktop/Proyecto final/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel/model_200_0.030565"
+all_model_checkpoint_paths: "/Users/jesuspereyra/Desktop/Proyecto final/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel/model_epoch11iteration154_0.0513824 accuracy: Tensor(\"Mean_1:0\", shape=(), dtype=float32)"
+all_model_checkpoint_paths: "/Users/jesuspereyra/Desktop/Proyecto final/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel/model_epoch12iteration168_0.0419614 accuracy: Tensor(\"Mean_1:0\", shape=(), dtype=float32)"
+all_model_checkpoint_paths: "/Users/jesuspereyra/Desktop/Proyecto final/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel/model_epoch13iteration182_0.0430812 accuracy: Tensor(\"Mean_1:0\", shape=(), dtype=float32)"
+all_model_checkpoint_paths: "/Users/jesuspereyra/Desktop/Proyecto final/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel/model_epoch14iteration196_0.030565 accuracy: Tensor(\"Mean_1:0\", shape=(), dtype=float32)"
+all_model_checkpoint_paths: "/Users/jesuspereyra/Desktop/Proyecto final/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel/model_200_0.030565"
