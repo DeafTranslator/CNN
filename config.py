@@ -20,7 +20,7 @@ fc_size = 128             # Number of neurons in fully-connected layer.
 num_channels = 3
 
 # image dimensions (only squares for now)
-img_size = 224
+img_size = 400
 
 learning_rate = 0.0001
 
@@ -55,7 +55,7 @@ home_path = '/home/username/Desktop/CNN/modeloEntrenado/'
 # print train_path
 
 # model_path = '/Users/jesuspereyra/Desktop/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/'
-model_path = '/home/username/Desktop/CNN/modeloEntrenado/numberModel'
+model_path = '/home/username/Desktop/CNN/modeloEntrenado/numberModel2'
 # model_path_tuning = '/Users/jesuspereyra/Desktop/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/tuning/'
 
 
