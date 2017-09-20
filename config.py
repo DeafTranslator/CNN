@@ -46,17 +46,17 @@ validation_size = .3
 # how long to wait after validation loss stops improving before terminating training
 early_stopping = False  # use None if you dont want to implement early stoping
 
-train_path = '/Users/jesuspereyra/Desktop/datasetTest0/train'
-test_path = '/Users/jesuspereyra/Desktop/datasetTest0/test'
-test_path2 = '/Users/jesuspereyra/Documents/server/try/'
-home_path = '/Users/jesuspereyra/Desktop/Proyectofinal/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/'
+train_path = '/home/username/Desktop/modelo/dataset/train'
+test_path = '/home/username/Desktop/modelo/dataset/test'
+# test_path2 = '/Users/jesuspereyra/Documents/server/try/'
+home_path = '/home/username/Desktop/CNN/modeloEntrenado/'
 # home_path = '/Users/jesuspereyra/Desktop/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel'
 # checkpoint_dir = "C:/Projects/playground/tensorflow/tf_image_clf/models/"
 # print train_path
 
 # model_path = '/Users/jesuspereyra/Desktop/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/'
-model_path = '/Users/jesuspereyra/Desktop/Proyectofinal/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/numberModel'
-model_path_tuning = '/Users/jesuspereyra/Desktop/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/tuning/'
+model_path = '/home/username/Desktop/CNN/modeloEntrenado/numberModel'
+# model_path_tuning = '/Users/jesuspereyra/Desktop/tensorflow/nuevaVaina/Neural-network/CNN/modeloEntrenado/tuning/'
 
 
 
